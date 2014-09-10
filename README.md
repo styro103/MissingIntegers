@@ -10,6 +10,7 @@ For example, given:
   A[3] = 4    
   A[4] = 1    
   A[5] = 2
+  
 the function should return 5.
 
 Assume that:
